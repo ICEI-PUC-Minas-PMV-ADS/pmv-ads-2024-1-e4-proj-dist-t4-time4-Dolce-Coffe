@@ -1,10 +1,10 @@
 # Dolce Coffe
 
-Análise e Desenvolvimento de Sistemas
+`Análise e Desenvolvimento de Sistemas`
 
-Eixo 4 - Projeto: Desenvolvimento de uma Aplicação Distribuída - Turma 03 - 2023/2
+`Eixo 4 - Projeto: Desenvolvimento de uma Aplicação Distribuída - Turma 06 - 2024/1`
 
-Quarto Semestre
+`Quarto Semestre`
 
 Dolce Coffe é um cardápio virtual de cafés e alimentos de alta qualidade, acessível a partir de qualquer dispositivo com conexão à internet. Oferece uma variedade de bebidas e comidas inspiradas na cozinha italiana, com opções para todos os gostos e ocasiões. 
 
