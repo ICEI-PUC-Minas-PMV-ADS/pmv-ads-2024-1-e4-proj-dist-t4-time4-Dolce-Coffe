@@ -6,7 +6,7 @@ Eixo 4 - Projeto: Desenvolvimento de uma Aplicação Distribuída - Turma 03 - 2
 
 Quarto Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Dolce Coffe é um cardápio virtual de cafés e alimentos de alta qualidade, acessível a partir de qualquer dispositivo com conexão à internet. Oferece uma variedade de bebidas e comidas inspiradas na cozinha italiana, com opções para todos os gostos e ocasiões. 
 
 ## Integrantes
 
