@@ -1,19 +1,20 @@
-# TÍTULO DO PROJETO
+# Dolce Coffe
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Eixo 4 - Projeto: Desenvolvimento de uma Aplicação Distribuída - Turma 03 - 2023/2
 
-`SEMESTRE`
+Quarto Semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Roberta Gomes de Freitas
+* Lucas Marcelo dias Souza
+* Marlon César de Almeida dos Santos
+* Geison Amorim
+* Victor Kingma
 
 ## Orientador
 
