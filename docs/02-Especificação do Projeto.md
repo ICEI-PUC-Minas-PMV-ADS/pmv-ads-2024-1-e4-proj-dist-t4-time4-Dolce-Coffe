@@ -1,22 +1,24 @@
 # Especificações do Projeto
 
-O problema a ser abordado foi identificado após discussões e análises da equipe, focando nos pontos mais relevantes para aprimorar o cardápio de uma cafeteria. As informações coletadas foram organizadas em personas e histórias de usuários.
+| **Alberto Guimarães** |      |      |
+|------------------------------|------|------|
+|![Persona1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/93801572/b98fd878-5f05-410d-b486-12077dfcb2c3)| **Idade:**  33 anos  | **Ocupação:** Chefe Confeiteiro, Sommelier de café e proprietário da Dolce Coffe e atua como confeiiteiro. Empreendedor. |
+| **Motivações:** Alberto é motivado pela necessidade de aprendizado através de cursos, pelo trabalho e pela família	| **Frustrações:** Não conseguir passar credibilidade de seus produtos somente através das redes sociais | **Hobbies, História:** Estudar novas gastronomia, levar uma vida saudável aos clientes, viajar|
 
-## Personas
+| **Rosimeire Borges** |      |      |
+|------------------------------|------|------|
+|![Persona4 jpeg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/93801572/d8fb4c49-8bc0-4583-9a5c-8a575a2e87cd)| **Idade:** 65 anos  | **Ocupação:** Professora aposentada e cliente da cafeteria Dolce Coffe  |
+| **Motivações:** Rosimeire é movida pelo amor aos familares e por aproveitar o tempo com seus netos.	| **Frustrações:** Cardápio sem todas as informações dos produtos | **Hobbies, História:** Viajar, leitura e ir ao parque com os netos|
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| **Fernanda Mendes** |      |      |
+|------------------------------|------|------|
+|![Persona5 jpeg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/93801572/8bbe6326-ace8-49eb-b4f4-4472a1dd8429)| **Idade:** 20 anos  | **Ocupação:** Estudante universitário de administração |
+| **Motivações:** Fernanda encontra motivação no amor a família e pelos estudos.	| **Frustrações:** Dificuldade em localizar e ordenar os produtos desejados na hora da compra | **Hobbies, História:** passeios com os amigos, assistir series/filmes.|
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| **Raquel Silva** |      |      |
+|------------------------------|------|------|
+|![Persona3 jpeg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/93801572/31732000-f25f-47d9-af71-34da530b3adb)| **Idade:** 27  anos  | **Ocupação:** Secrétaria em um Consultório Odontológico e aluna de direito|
+| **Motivações:** Raquel quer ter mais energia e concentração para finalizar seus estudos.	| **Frustrações:** Nem sempre tem tempo para conseguir beber um bom café . | **Hobbies, História:** Gosta de praticar corrida e assistir a séries de TV. |
 
 ## Histórias de Usuários
 
