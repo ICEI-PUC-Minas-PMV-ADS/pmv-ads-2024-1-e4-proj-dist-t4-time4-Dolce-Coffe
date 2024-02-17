@@ -1,5 +1,7 @@
 # Especificações do Projeto
 
+A definição do problema e os pontos mais relevantes a serem tratados neste projeto foram consolidados através de discussões e estudos realizados pelos membros da equipe . Os detalhes levantados nesse processo foram agrupados na forma de personas e histórias de usuários, com o objetivo de compreender melhor as necessidades e desejos dos clientes para melhorar a experiência na cafeteria..
+
 | **Alberto Guimarães** |      |      |
 |------------------------------|------|------|
 |![Persona1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/93801572/b98fd878-5f05-410d-b486-12077dfcb2c3)| **Idade:**  33 anos  | **Ocupação:** Chefe Confeiteiro, Sommelier de café e proprietário da Dolce Coffe e atua como confeiiteiro. Empreendedor. |
