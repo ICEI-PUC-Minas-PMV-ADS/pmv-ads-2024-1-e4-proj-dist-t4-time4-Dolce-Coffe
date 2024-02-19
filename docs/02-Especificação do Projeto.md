@@ -28,8 +28,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Rosimeire Borges   | Visualizar informações detalhadas dos produtos no cardápio | Tomar decisões de compra mais informadas e satisfatórias |
+|Fernanda Mendes     | Localizar e ordenar os produtos desejados facilmente | Facilitar a experiência de compra e economizar tempo |
+|Alberto Guimarães   | Acompanhar o status de entrega de pedidos feitos online | Planejar a retirada dos pedidos e garantir conveniência |
+|Raquel Silva        | Avaliar e deixar feedback sobre as bebidas e alimentos consumidos | Compartilhar experiências e contribuir para a melhoria contínua da cafeteria |
+|Alberto Guimarães   | Acessar um histórico de compras para referência futura | Lembrar das preferências de compra e repetir pedidos anteriores |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
