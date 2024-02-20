@@ -44,17 +44,33 @@ A situação atual da cafeteria revela a falta de um sistema digitalizado, limit
 
 A proposta consiste em implementar um cardápio online para a cafeteria, visando proporcionar aos clientes facilidade de acesso, atualizações em tempo real, personalização de informações, integração com sistemas de pedidos online, atração de novos clientes, economia de custos em impressões, destaque para ofertas sazonais, e análise de dados para otimização do menu e melhoria da experiência do cliente. Essa iniciativa busca modernizar o serviço, acompanhar as tendências digitais e aumentar a eficiência operacional da cafeteria.
 
-### Processo 1 – NOME DO PROCESSO
+#### Processo 1 - Cadastro Consumidor Final - Mobile
+![cadastro-cf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t3-1999-burguer/assets/103429022/f93e1012-e02f-4870-b498-6052519406a5)
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+#### Processo 2 - Cardápio - Mobile
+![cardapio-cf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t3-1999-burguer/assets/103429022/44a755c4-8517-4b1b-a550-8ba412e7fb3a)
 
-![Processo 1](img/02-bpmn-proc1.png)
+#### Processo 3 - Carrinho - Mobile
+![carrinho-cf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t3-1999-burguer/assets/103429022/9703f44d-a860-4c24-9bb2-bda16d5c103b)
 
-### Processo 2 – NOME DO PROCESSO
+#### Processo 4 - Home Page - Mobile
+![home-page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t3-1999-burguer/assets/103429022/34d7af23-c18b-45fb-a1f1-65dba804034c)
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+#### Processo 5 - Cadastro Usuário - Aplicação Web
+![cadastro-res](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-dad-t3-1999-burguer/assets/103429022/5526ab74-ef5a-4095-ace7-ab803a33c4b8)
 
-![Processo 2](img/02-bpmn-proc2.png)
+#### Processo 6 - Produtos - Aplicação Web
+![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/111931438/d9d2f688-d997-475f-ae76-3b00bca82b86)
+
+#### Processo 7 - Lista Pedidos - Aplicação Web
+![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/111931438/222052eb-6a00-4a99-83c8-0f8d43ff6ccd)
+
+
+#### Processo 8 - Detalhes Pedido - Aplicação Web
+![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/111931438/64bfc128-db1d-49e6-b771-b6bd28785907)
+
+#### Processo 9 - Histórico de Pedidos - Aplicação Web
+![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/assets/111931438/2aa2153e-d65c-4c4a-8939-5e18121c6d3b)
 
 ## Indicadores de Desempenho
 
