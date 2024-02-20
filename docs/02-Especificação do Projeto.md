@@ -74,12 +74,14 @@ A proposta consiste em implementar um cardápio online para a cafeteria, visando
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+| # |Indicador|Objetivos|Descrição|Cálculo|Fonte de Dados|Perspectiva|
+|--|--|--|--|--|--|--|
+| 1 | Número de downloads | Aumentar o número de usuários | Contabiliza o número de downloads realizados do aplicativo | Total de downloads | Plataformas de distribuição de aplicativos (App Store, Google Play) | Crescimento do Produto
+|2| Taxa de conversão | Aumentar o número de usuários ativos | Mostra a porcentagem de usuários que fizeram o download do aplicativo e se tornaram usuários ativos | Usuários ativos / número de downloads * 100 | Sistema do Aplicativo | Financeira |
+|3| Compras de Clientes | Aumentar a fidelidade dos usuários | Mede o número de pedidos do usuário | Quantidades de pedido | Sistema do aplicativo | Financeira |
+|4| Avaliação do usuário | Melhorar a satisfação do usuário | Mede a satisfação do usuário em relação ao aplicativo | Média das avaliações dos usuários | Plataformas de distribuição de aplicativos (App Store, Google Play) | Cliente |
+|5| Taxa de churn | Reduzir a perda de usuários | Mostra a porcentagem de usuários que deixaram de usar o aplicativo | Número de usuários perdidos / número de usuários ativos * 100 | Sistema do aplicativo | Monitorar a aceitação do público |
+|6| Retorno sobre investimento | Obter lucro com o aplicativo | Mede o retorno financeiro sobre o investimento realizado no aplicativo | (Receita gerada - Custo do desenvolvimento) / Custo do desenvolvimento * 100 | Sistema financeiro do negócio | Financeira |
 
 ## Requisitos
 
