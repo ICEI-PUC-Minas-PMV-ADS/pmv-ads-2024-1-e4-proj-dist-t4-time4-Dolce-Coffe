@@ -34,24 +34,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Raquel Silva        | Avaliar e deixar feedback sobre as bebidas e alimentos consumidos | Compartilhar experiências e contribuir para a melhoria contínua da cafeteria |
 |Alberto Guimarães   | Acessar um histórico de compras para referência futura | Lembrar das preferências de compra e repetir pedidos anteriores |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Modelagem do Processo de Negócio 
+## Modelagem do Processo de Negócio
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+A situação atual da cafeteria revela a falta de um sistema digitalizado, limitando a acessibilidade do cardápio aos clientes. A dependência de cardápios impressos dificulta atualizações em tempo real, personalização de informações e destaque para ofertas sazonais. A ausência de integração com sistemas de pedidos online pode resultar em perda de oportunidades de vendas. Além disso, a falta de análise de dados impede a compreensão das preferências dos clientes. Diante desse cenário, a implementação de um cardápio online emerge como uma solução para modernizar o serviço, aumentar a eficiência operacional e atrair uma base mais ampla de clientes.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A proposta consiste em implementar um cardápio online para a cafeteria, visando proporcionar aos clientes facilidade de acesso, atualizações em tempo real, personalização de informações, integração com sistemas de pedidos online, atração de novos clientes, economia de custos em impressões, destaque para ofertas sazonais, e análise de dados para otimização do menu e melhoria da experiência do cliente. Essa iniciativa busca modernizar o serviço, acompanhar as tendências digitais e aumentar a eficiência operacional da cafeteria.
 
 ### Processo 1 – NOME DO PROCESSO
 
