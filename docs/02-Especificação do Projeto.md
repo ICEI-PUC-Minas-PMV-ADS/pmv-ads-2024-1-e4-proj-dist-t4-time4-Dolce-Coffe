@@ -95,30 +95,66 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitir que os clientes criem uma conta | ALTA | 
+|RF-002| O sistema deve permitir que os gerentes cadastrem e atualizem informações de produtos, como descrições, preços e imagens | MÉDIA |
+| RF-003| O sistema deve permitir que os clientes adicionem produtos a um carrinho de compras | Alta |
+| RF-004| O sistema deve permitir que os clientes concluam a compra quando direcionado para o carrinho | Alta |
+| RF-005| O menu deverá permitir o usuário navegar entre as seguintes telas: pedidos, gerenciar cardápio, histórico de pedidos, meu perfil | Alta|
+| RF-006| O sistema deve permitir inciar o pedido ou cancelar na própria tela de pedidos pendentes na home | Alta| 
+| RF-007| O sistema deve permitir excluir pedidos do carrinho |
 
-### Requisitos não Funcionais
+### Requisitos Funcionais API
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+| RF-008| A API deverá fornecer um endpoint GET para retornar todos os produtos cadastrados | Alta|
+| RF-009| A API deverá fornecer um endpoint POST para criar um novo produto | Alta|
+| RF-010| A API deverá fornecer um endpoint PUT para atualizar o produto | Alta|
+| RF-011| A API deverá fornecer um endpoint DELETE para excluir um produto | Alta|
+| RF-012| A API deverá fornecer um endpoint GET para retornar todos os pedidos cadastrados | Alta|
+| RF-013| A API deverá fornecer um endpoint GET para retornar detalhes de um pedido | Alta|
+| RF-014| A API deverá fornecer um endpoint POST para criar um novo pedido | Alta|
+| RF-015| A API deverá fornecer um endpoint GET para retornar dados do usuário | Alta|
+| RF-016| A API deverá fornecer um endpoint PUT para atualizar dados do usuário |Alta| 
+| RF-017| A API deverá fornecer um endpoint POST para autenticar o login do usuário | Alta|
+| RF-018| A API deverá fornecer um endpoint POST para cadastrar um usuário no banco | Alta|
+
+### Requisitos Funcionais Aplicação Mobile
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+| RF-019| Os usuários devem poder fazer cadastro e login usando suas credenciais, como e-mail e senha | Alta |
+| RF-020| A aplicação deverá possuir uma tela de cardápio, possibilitando a visualização dos produtos | Alta |
+| RF-021| Os usuários devem poder adicionar produtos ao carrinho | Alta |
+| RF-022| Os usuários devem poder acessar o carrinho, verificando os produtos listando escolhidos | Alta |
+| RF-023| Os usuários devem poder editar os produtos escolhidos, o que inclui: exclusão do produto, aumentar quantidade do produto e diminuir quantidade do produto | Alta |
+| RF-024| Os usuários devem poder finalizar os pedidos | Alta |
+
+### Requisitos não Funcionais Web e Mobile
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve criptografar a senha do usuário | Alta| 
+|RNF-002| O sistema deve web ser compatível com os principais navegadores da web, como Chrome e Edge | Média|
+|RNF-003| O sistema web deve ter interface responsiva, adaptando-se automaticamente a diferentes tamanhos de tela | Alta|
+|RNF-004| O sistema deve listar os pedidos organizados em blocos com as informações dos pedidos | Média |
+|RNF-005| O sistema front-end Web deve ser desenvolvido na linguagm ____ com utilização do framework ____ | Alta|
+|RNF-006| O sistema front-end Mobile deve ser desenvolvido na linguagem ____| Alta |
+|RNF-007| O sistema front-end Mobile deve ser compatível com sistema operacional Android e iOS | Baixa|
+|RNF-008| As interfaces precisam estar compatíveis com práticas de acessibilidade | Média |
+|RNF-009| 	Os sitemas devem ser compatíveis com a LGPD, Lei Geral de Proteção de Dados | Baixa|
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+### Requisitos Não Funcionais API
+
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-011| A API deve ser altamente responsiva, com tempos de resposta médios inferiores a 500 milissegundos, para garantir uma experiência de usuário rápida| Alta |
+|RNF-012| O código da API deve ser testado de forma abrangente e seguir as melhores práticas de codificação para garantir robustez e confiabilidade| |
+|RNF-013| A API deve oferecer controle de versão para que as alterações futuras não quebrem a compatibilidade com os clientes existentes | Média |
+|RNF-014| Deve ser implementado um sistema de cache para reduzir a carga do servidor e melhorar o desempenho da API. | Alta |
+|RNF-015| A API deve ser capaz de suportar diferentes protocolos de comunicação, como HTTP e HTTPS, para atender às diversas necessidades dos clientes. | Alta |
+|RNF-016| O sistema back-end API deve ser desenvolvida na linguagem __| Alta |
 
 ## Restrições
 
@@ -127,13 +163,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| O backend deve ser desenvolvido como uma API REST, integrando o front-end web e mobile com o banco de dados |
+|03| Construir aplicações únicas para front-end mobile e front-end web 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
