@@ -1,14 +1,17 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Algumas plataformas estão sendo empregadas para o desenvolvimento do projeto, abrangendo áreas de produção documental, imagética e controle de código.
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+|  |               | |  | |  | 
+|----|-----------------------|------------|----------------|--------------|-----------------|  
+|    Repositório de código fonte   |    GitHub   | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe  
+|     Documentos do projeto    |  Google Docs     |  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e4-proj-dist-t4-time4-Dolce-Coffe/tree/main/docs |   
+|     Projetos de interface e Wireframes       |    Figma       |  https://www.figma.com/ |   
+|    Gerenciamento do Projeto | GitHub Projects      |   |   
+|     Controle de versão |    Git      | https://git-scm.com/  |   
 
 ## Controle de Versão
 
