@@ -230,4 +230,4 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 |    | Licenças              | 5          | R$ 400,00      | R$ 1.600,00  | R$ 9.600,00     |   
 | **4**  | **Serviços**              |            |                |              |                 |   
 |    | Azure                 | 1          | R$ 2.500,00    | R$ 2.500,00  | R$ 15.000,00    |
-|    |                       |            | **Total**          | **R$ 47.100,00** | **R$ 304.600,00**   |
+|    |                       |            | **Total**          | **R$ 45.100,00** | **R$ 30.800,00**   |
