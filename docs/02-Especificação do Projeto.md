@@ -221,13 +221,13 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 | ID | Recurso               | Quantidade | Custo Unitário | Custo Mensal | Custo Semestral |
 |----|-----------------------|------------|----------------|--------------|-----------------|
 | **1**  | **Recursos Humanos**      |            |                |              |                 |   
-|    | Gestor de Projetos    | 1          | R$ 15.000,00   | R$ 15.000,00 | R$ 90.000,00    |   
-|    | Desenvolvedor / QA    | 2          | R$ 10.000,00   | R$ 20.000,00 | R$ 120.000,00   |   
+|    | Gestor de Projetos    | 1          | R$ 10.000,00   | R$ 10.000,00 | R$ 60.000,00    |   
+|    | Desenvolvedor / QA    | 2          | R$ 6.000,00   | R$ 6.000,00 | R$ 36.000,00   |   
 |    | Designer UX/UI        | 1          | R$ 6.000,00    | R$ 6.000,00  | R$ 36.000,00    |   
 | **2**  | **Hardware**              |            |                |              |                 |  
-|    | Notebook              | 5          | R$ 5.000,00    | -            | R$ 20.000,00    |   
+|    | Notebook              | 5          | R$ 5.000,00    | -            | -    |   
 | **3**  | **Software**              |            |                |              |                 |   
 |    | Licenças              | 5          | R$ 400,00      | R$ 1.600,00  | R$ 9.600,00     |   
 | **4**  | **Serviços**              |            |                |              |                 |   
 |    | Azure                 | 1          | R$ 2.500,00    | R$ 2.500,00  | R$ 15.000,00    |
-|    |                       |            | **Total**          | **R$ 45.100,00** | **R$ 30.800,00**   |
+|    |                       |            | **Total**          | **R$ 31.100,00** | **R$ 147.000,06**   |
