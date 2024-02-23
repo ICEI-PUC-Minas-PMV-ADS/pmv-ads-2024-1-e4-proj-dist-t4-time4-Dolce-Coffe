@@ -214,7 +214,6 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ![Simple Project Timeline](img/02-project-timeline.png)
 
-## Gestão de Orçamento
 
 ## Gestão de Orçamento
 
