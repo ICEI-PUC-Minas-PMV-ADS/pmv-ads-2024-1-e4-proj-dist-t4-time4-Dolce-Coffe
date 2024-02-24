@@ -34,23 +34,11 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
+A equipe utiliza metodologias ágeis, tendo escolhido o Kanban como base para definição do processo de desenvolvimento.
 
 ### Divisão de Papéis
 
-A equipe utiliza metodologias ágeis, tendo escolhido o Kanban como base para definição do processo de desenvolvimento.
-
-Divisão de Papéis
 A equipe está organizada da seguinte maneira:
 
 Product Manager: Geison 
@@ -65,19 +53,17 @@ Lucas
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Projects do GitHub com um Kanban. Ele está composto com as seguintes listas:
 
-🆕New: Recebe as tarefas novas que não tem uma definição ainda. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas primeiramente nessa lista.
-📋 Backlog: Representa o Product Backlog.
-🔖 To Do: Esta lista representa todas as tarefas que não foram iniciadas ainda.
-🏗 In progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
-✅ Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontas para o deploy, ou seja, lista de tarefas completadas.
-
-### Ferramentas
+- ** Backlog:** Representa o Product Backlog. 
+- ** To Do:** Esta lista representa todas as tarefas que não foram iniciadas ainda.
+- ** In progress:** Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+- ** In review:** Quando a codificação de uma tarefa tiver sido finalizada, a tarefa é movida para cá onde é feito o controle de qualidade do código.
+- **Done:** Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontas para o deploy, ou seja, lista de tarefas completadas.
 
 As ferramentas empregadas no projeto são:
 
-Editor de código: Visual Studio Code.
-Ferramentas de comunicação: Whatsapp, Teams.
-Ferramentas de desenho de tela (wireframing): Figma
-Ferramentas para diagramas (conceitual e lógico): Mermaid e Diagrams.net
+- **Editor de código:** Visual Studio Code.
+- **Ferramentas de comunicação:** Whatsapp, Teams.
+- **Ferramentas de desenho de tela (wireframing):** [Figma](https://www.figma.com/)
+- **Ferramentas para diagramas (conceitual e lógico):** [Mermaid](https://mermaid.js.org/) e [Diagrams.net](https://app.diagrams.net/)
 
 O editor de código foi escolhido pelo grupo pois é o mais prático e acessível para os integrantes. Tem um bom dicionário de erros no código e permite acompanhar alterações em tempo real através do navegador. As ferramentas de comunicação utilizadas são as mais práticas e por isso foram selecionadas. Por fim, para criar diagramas utilizamos o Mermaid e o Draw.io.
