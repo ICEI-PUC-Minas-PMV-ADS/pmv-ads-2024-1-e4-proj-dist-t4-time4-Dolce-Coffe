@@ -22,7 +22,7 @@ Dolce Coffe é um cardápio virtual de cafés e alimentos de alta qualidade, ace
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva, como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
 
